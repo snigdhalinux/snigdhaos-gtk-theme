@@ -215,11 +215,11 @@ make_gtkrc() {
     case "$ctype" in
       '')
         background_light='#FFFFFF'
-        background_dark='#0F0F0F'
-        background_darker='#121212'
-        background_alt='#212121'
-        titlebar_light='#F2F2F2'
-        titlebar_dark='#030303'
+        background_dark='#28282b'
+        background_darker='#0d0d0d'
+        background_alt='#191919'
+        titlebar_light='#ecf5ff'
+        titlebar_dark='#0b0b0b'
         ;;
       -Nord)
         background_light='#f8fafc'
