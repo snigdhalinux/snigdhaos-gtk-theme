@@ -1,0 +1,1 @@
+# snigdhaos-gtk-theme
