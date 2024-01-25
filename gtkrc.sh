@@ -1,3 +1,11 @@
+#!/bin/bash
+
+######################################################################################
+# Author: Eshan Roy <eshan@snigdhaos.org>                                            #
+# Url   : eshan.snigdhaos.org                                                        #
+# Lead Maintainer & Developer of Snigdha OS                                          #
+######################################################################################
+
 make_gtkrc() {
   local dest="${1}"
   local name="${2}"
