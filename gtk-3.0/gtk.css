@@ -1820,7 +1820,7 @@ treeview.view.progressbar {
 
 treeview.view.progressbar:selected, treeview.view.progressbar:selected:hover, treeview.view.progressbar:selected:focus {
   box-shadow: none;
-  background-color: #d3b3f8;
+  background-color: #6495ED;
   color: rgba(0, 0, 0, 0.87);
 }
 
