@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 if [[ ! "$(command -v sassc)" ]]; then
   echo "'sassc' needs to be installed to generate the CSS."
