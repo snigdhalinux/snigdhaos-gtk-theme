@@ -3357,7 +3357,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .quick-toggle:checked:hover {
-  background-color: #ceabf7 !important;
+  background-color: #6495ED !important;
   color: rgba(0, 0, 0, 0.87);
 }
 
@@ -3449,7 +3449,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .quick-menu-toggle .quick-toggle-arrow:checked:hover {
-  background-color: #ceabf7 !important;
+  background-color: #6495ED !important;
   color: rgba(0, 0, 0, 0.87);
 }
 
